@@ -5,6 +5,7 @@ import githubIcon from "../../assets/github-light.svg";
 import resume from '../../assets/myresume.pdf'
 function Hero() {
   return (
+    <>
     <section id="hero" className={styles.container}>
       <div className={styles.colorModeContainer}>
         <img src={heroImg} alt="profile-picture" className={styles.hero} />
@@ -32,6 +33,7 @@ function Hero() {
       </div>
     </section>
     <hr>
+    </>
   );
 }
 
