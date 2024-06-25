@@ -31,6 +31,7 @@ function Hero() {
         </a>
       </div>
     </section>
+    <hr>
   );
 }
 
