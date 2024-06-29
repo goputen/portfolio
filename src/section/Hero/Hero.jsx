@@ -2,7 +2,7 @@ import styles from "./Hero.module.css";
 import heroImg from "../../assets/myimage.jpg";
 import linkedinIcon from "../../assets/linkedin-light.svg";
 import githubIcon from "../../assets/github-light.svg";
-import resume from '../../assets/myresume.pdf'
+import resume from '../../assets/Sachin Kumar - Resume.pdf'
 function Hero() {
   return (
     <>
