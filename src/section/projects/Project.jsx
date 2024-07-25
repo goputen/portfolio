@@ -9,6 +9,7 @@ function Project() {
   <div className={styles.projectContainer}>
    <ProjectCard viberr={viberr} h3="Paper Website" p="full-stack project" link="http://mitpaperdown.rf.gd/MIT/login.php/"></ProjectCard>
    <ProjectCard viberr={moviescreenshot} h3="Movie website" p="front-end project" link="https://goputen.github.io/movieszone/"></ProjectCard>
+    <ProjectCard viberr={moviescreenshot} h3="IMDB clone" p="front-end project" link="https://aboutme-git-main-goputens-projects.vercel.app/"></ProjectCard>
   </div>
 </section>
   )
