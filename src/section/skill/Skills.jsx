@@ -14,6 +14,7 @@ function Skills() {
  <SkillComponent src={checkMarkIcon} p="React js"></SkillComponent >
  <SkillComponent src={checkMarkIcon} p="Bootstrap"></SkillComponent >
  <SkillComponent src={checkMarkIcon} p="Git"></SkillComponent >
+ <SkillComponent src={checkMarkIcon} p="Tailwind CSS"></SkillComponent >
 </div>
 </section>
   )
