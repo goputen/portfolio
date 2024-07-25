@@ -2,7 +2,7 @@ import ProjectCard from './card/ProjectCard'
 import viberr from '../../assets/mitlogo.png'
 import styles from './Project.module.css'
 import moviescreenshot from '../../assets/moviescreenshot.png'
-import projectPic from '../../assets/project.PNG'
+import projectPic from '../../assets/project.jpg'
 function Project() {
   return (
 <section className={styles.container}>
